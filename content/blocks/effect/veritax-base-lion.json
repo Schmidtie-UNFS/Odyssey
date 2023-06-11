@@ -1,7 +1,7 @@
 {
 	"type": "CoreBlock",
 	"health": 5000,
-	"size": 4,
+	"size": 3,
 	"itemCapacity":12000,
 	"unitCapModifier": 30,
 	"researchCostMultiplier": 0.06,
