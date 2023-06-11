@@ -1,0 +1,25 @@
+{
+	"type": "GenericCrafter",
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"itemCapacity": 20,
+	"craftTime": 80,
+	"craftEffect": "smokeCloud",
+	"updateEffect": "none",
+	"consumes": {
+		"power": 1,
+		"items": [
+			"copper/5",
+			"silicon/5"
+		]
+	},
+	"requirements": [
+		"copper/100",
+		"silicon/100",
+		"lead/100"
+	],
+	"category": "crafting",
+	"research": "veritax",
+	"outputItem": "lithium/10"
+}

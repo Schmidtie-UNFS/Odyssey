@@ -1,0 +1,14 @@
+{
+	"localizedName": "Veritax",
+	"description": "The Veritax Race",
+	"alwaysUnlocked": true,
+	"buildVisibility": "editorOnly",
+	"type": "LightBlock",
+	"health": 1000,
+	"size": 2,
+	"research": {
+		"root": true,
+		"name": "Veritax",
+		"requiresUnlock": false
+	}
+}

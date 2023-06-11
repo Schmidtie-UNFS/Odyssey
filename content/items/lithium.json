@@ -1,0 +1,11 @@
+{
+	"cost": 1,
+	"lowPriority": true,
+	"charge": 0.1,
+	"research": {
+		"parent": "Veritax"
+		"requirements": [
+			"copper/300"
+		]
+	}
+}
