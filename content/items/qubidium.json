@@ -6,7 +6,6 @@
     "requirements": [
       "lithium/300",
       "ferrium/300"
-    ],
-    "quantum-polarizer"
+    ]
   }
 }
