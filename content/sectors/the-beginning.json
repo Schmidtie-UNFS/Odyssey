@@ -5,5 +5,8 @@
   "sector": 0,
   "captureWave": 45,
   "difficulty": 1,
+  "sectorPreset": {
+    "difficulty": 2
+  }
   "alwaysUnlocked": true
 }
