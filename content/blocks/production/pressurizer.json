@@ -5,7 +5,6 @@
   "hasItems": true,
   "itemCapacity": 20,
   "craftTime": 160,
-  "craftEffect": "fuelBurn",
   "updateEffect": "none",
   "consumes": {
     "power": 0.5,
