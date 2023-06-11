@@ -1,0 +1,25 @@
+{
+  "type": "GenericCrafter",
+  "size": 3,
+  "hasPower": true,
+  "hasItems": true,
+  "itemCapacity": 20,
+  "craftTime": 100,
+  "consumes": {
+    "power": 3,
+    "items": [
+      "lithium/10",
+      "thorium/5",
+      "radium/15"
+    ],
+    "requirements": [
+      "lithium/300",
+      "ferrium/200",
+      "thorium/500",
+      "radium/100"
+    ],
+    "category": "crafting",
+    "research": "lithium-press",
+    "outputItem": "qubidium/5"
+  }
+}
