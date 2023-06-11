@@ -18,6 +18,7 @@
 	"allowSectorInvasion": false,
 	"allowLaunchToNumbered": true,
 	"radius": 1,
+	"defaultEnv": 1,
 	"hiddenItems": [
 		
 	],
