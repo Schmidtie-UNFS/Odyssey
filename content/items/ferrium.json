@@ -1,0 +1,10 @@
+{
+  "cost": 1,
+  "lowPriority": false,
+  "research": {
+    "parent": "lithium",
+     "requirements": [
+        "lithium/300"
+     ]
+  }
+}
