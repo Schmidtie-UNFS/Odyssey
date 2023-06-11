@@ -3,7 +3,7 @@
 	"lowPriority": true,
 	"charge": 0.1,
 	"research": {
-		"parent": "Veritax"
+		"parent": "veritax"
 		"requirements": [
 			"copper/300"
 		]
