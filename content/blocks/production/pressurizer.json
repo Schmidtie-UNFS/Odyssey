@@ -1,0 +1,26 @@
+{
+  "type": "GenericCrafter",
+  "size": 2,
+  "hasPower": true,
+  "hasItems": true,
+  "itemCapacity": 20,
+  "craftTime": 160,
+  "craftEffect": "fuelBurn",
+  "updateEffect": "none",
+  "consumes": {
+    "power": 0.5,
+    "items": [
+      "lithium/ 2",
+      "sand/2",
+      "graphite/2"
+    ]
+  },
+  "requirements": [
+      "copper/100",
+      "lithium/100",
+      "lead/200"
+  ],
+  "category": "crafting",
+  "research": "lithium-press",
+  "outputItem": "ferrium/2"
+}
