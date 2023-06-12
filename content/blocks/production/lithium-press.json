@@ -21,6 +21,5 @@
 	],
 	"category": "crafting",
 	"research": "veritax",
-	"outputItem": "lithium/5",
-	"outputItem": "radium/1"
+	"outputItem": "lithium/5"
 }
