@@ -5,15 +5,18 @@
   "hasItems": true,
   "itemCapacity": 20,
   "craftTime": 100,
-  "drawers": [
-    {
-      "type": "DrawDefault"
-    },
-    {
-      "type": "DrawFlame",
-      "flameColor": "84f491"
-    }
-  ],
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawFlame",
+        "flameColor": "84f491"
+      }
+    ]
+  },
   "consumes": {
     "power": 3,
     "items": [
