@@ -4,7 +4,7 @@
   "researchCostMultiplier": 0.5,
   "health": 300,
   "itemCapacity": 30000,
-  "research": "q-node-t3",
+  "research": "q-node-t2",
   "category": "effect",
   "requirements": [
     "thorium/3000",
