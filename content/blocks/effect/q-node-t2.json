@@ -1,0 +1,17 @@
+{
+  "type": "StorageBlock",
+  "size": 2,
+  "researchCostMultiplier": 0.5,
+  "health": 200,
+  "itemCapacity": 20000,
+  "research": "q-node-t1",
+  "category": "effect",
+  "requirements": [
+    "thorium/1000",
+    "titanium/500",
+    "plastanium/300",
+    "lithium/500",
+    "radium/200",
+    "qubidium/200"
+  ]
+}
