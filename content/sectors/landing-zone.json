@@ -1,0 +1,8 @@
+{
+  "localizedName": "Landing Zone",
+  "description": "The first Sector",
+  "sector": 0,
+  "captureWave": 20,
+  "difficulty": 2,
+  "alwaysUnlocked": true
+}
