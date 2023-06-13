@@ -19,6 +19,9 @@
 	"allowLaunchToNumbered": true,
 	"radius": 1,
 	"defaultEnv": 1,
+	"itemWhitelist": [
+		"radium"
+	],
 	"hiddenItems": [
 		
 	],
