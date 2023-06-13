@@ -2,6 +2,16 @@
   "type": "StorageBlock",
   "size": 4,
   "researchCostMultiplier": 0.4,
+  "buildCostMultiplier": 0.5,
+  "drawers": [
+    {
+      "type": "DrawDefault"
+    },
+    {
+      "type": "DrawFlame",
+      "flameColor": "84f491"
+    }
+  ],
   "health": 400,
   "itemCapacity": 40000,
   "research": "q-node-t3",
