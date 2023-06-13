@@ -1,0 +1,44 @@
+{
+  "type": "GenericCrafter",
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawWeave"
+      },
+      {
+        "type": "DrawDefault"
+      }
+    ]
+  },
+  "size": 3,
+  "hasPower": true,
+  "hasItems": true,
+  "itemCapacity": 40,
+  "craftTime": 240,
+  "craftEffect": "smeltsmoke",
+  "updateEffect": "none",
+  "ambientSound": "techloop",
+  "consumes": {
+    "power": 30,
+    "items": [
+      "qubidium/10",
+      "radium/10",
+      "silicon/5",
+    ]
+  },
+  "requirements": [
+    "qubidium/1000",
+    "radium/1500",
+    "silicon/500",
+    "phase-fabric/300",
+    "thorium/200"
+  ],
+  "category": "crafting",
+  "research": "q-node-t4",
+  "outputItem": "quantanium/1"
+}
