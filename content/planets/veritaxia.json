@@ -15,10 +15,14 @@
 	"sectorSeed": 2548,
 	"sectorSize": 1,
 	"clearSectorOnLose": true,
+	"allowWaves": true,
 	"allowSectorInvasion": true,
 	"allowLaunchToNumbered": true,
 	"radius": 1,
 	"defaultEnv": 1,
+	"sectors": [
+		"landing-zone"
+	],
 	"itemWhitelist": [
 		"radium"
 	],
