@@ -5,5 +5,6 @@
   "sector": 0,
   "captureWave": 20,
   "difficulty": 3,
-  "alwaysUnlocked": true
+  "alwaysUnlocked": true,
+  gz.close()
 }
