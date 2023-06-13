@@ -1,0 +1,14 @@
+{
+  "type": "wall",
+  "buildCostMultiplier": 0.2,
+  "deflectSound": "sap",
+  "chanceDeflect": 80.0,
+  "absorbLasers": true,
+  "health": 10,
+  "size": 1,
+  "requirements": [
+    "quantanium/6"
+  ],
+  "category": "defense",
+  "research": "veritax"
+}
