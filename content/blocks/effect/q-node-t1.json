@@ -2,15 +2,13 @@
   "type": "StorageBlock",
   "size": 1,
   "researchCostMultiplier": 0.5,
-  "health": 2000,
+  "health": 100,
   "itemCapacity": 10000,
   "research": "veritax-base-lion",
   "category": "effect",
   "requirements": [
     "thorium/1000",
-    "titanium/500",
     "plastanium/300",
-    "lithium/500",
-    "ferrium/400"
+    "qubidium/500"
   ]
   }
