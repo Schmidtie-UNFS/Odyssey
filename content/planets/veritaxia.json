@@ -15,7 +15,7 @@
 	"sectorSeed": 2548,
 	"sectorSize": 1,
 	"clearSectorOnLose": true,
-	"allowSectorInvasion": false,
+	"allowSectorInvasion": true,
 	"allowLaunchToNumbered": true,
 	"radius": 1,
 	"defaultEnv": 1,
