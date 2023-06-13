@@ -1,0 +1,9 @@
+{
+  "localizedName": "Startup",
+  "description": "The first landing",
+  "planet": "veritaxia",
+  "sector": 0,
+  "captureWave": 20,
+  "difficulty": 3,
+  "alwaysUnlocked": true
+}
