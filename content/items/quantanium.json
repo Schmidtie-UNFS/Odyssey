@@ -1,0 +1,12 @@
+{
+  "cost": 7,
+  "radioactivity": 5,
+  "color": "",
+  "research":{
+    "parent": "radium",
+    "requirements":[
+      "radium/1000",
+      "qubidium/1000"
+    ]
+  }
+}
