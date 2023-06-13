@@ -20,9 +20,6 @@
 	"allowLaunchToNumbered": true,
 	"radius": 1,
 	"defaultEnv": 1,
-	"sectors": [
-		"landing-zone"
-	],
 	"itemWhitelist": [
 		"radium"
 	],
