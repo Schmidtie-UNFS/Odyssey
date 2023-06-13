@@ -1,7 +1,7 @@
 {
   "cost": 7,
   "radioactivity": 5,
-  "color": "",
+  "color": "73d188",
   "research":{
     "parent": "radium",
     "requirements":[
