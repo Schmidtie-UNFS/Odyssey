@@ -1,0 +1,33 @@
+{
+  "type": "ForceProjector",
+  "health": 50,
+  "shieldHealth": 10000,
+  "size": 1,
+  "liquidCapacity": 30,
+  "hasPower": true,
+  "canOverdrive": true,
+  "phaseUseTime": 470,
+  "phaseRadiusBoost": 90,
+  "solid": true,
+  "radius": 250,
+  "cooldownNormal": 1.85,
+  "cooldownLiquid": 1.5,
+  "cooldownBrokenBase": 1.75,
+  "consumes": {
+    "power": 20,
+    "items": [
+      "phase-fabric/2"
+    ],
+    "booster": true,
+    "optional": true
+  },
+  "requirements": [
+    "quantanium/100",
+    "radium/200",
+    "thorium/300",
+    "plastanium/400",
+    "silicon/200"
+  ],
+  "category": "effect",
+  "research": "q-node-t4"
+}
