@@ -4,6 +4,7 @@
   "planet": "veritaxia",
   "sector": 0,
   "captureWave": 20,
+  "threat": 2.0,
   "difficulty": 2,
   "research": "veritax",
   "alwaysUnlocked": true
