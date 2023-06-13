@@ -17,10 +17,10 @@
     "power": 20,
     "items": [
       "phase-fabric/2"
-    ],
-    "booster": true,
-    "optional": true
+    ]
   },
+  "booster": true,
+    "optional": true,
   "requirements": [
     "quantanium/100",
     "radium/200",
