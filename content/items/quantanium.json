@@ -3,7 +3,7 @@
   "radioactivity": 5,
   "color": "73d188",
   "research":{
-    "parent": "radium",
+    "parent": "qubidium",
     "requirements":[
       "radium/1000",
       "qubidium/1000"
