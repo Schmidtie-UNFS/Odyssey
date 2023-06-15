@@ -22,7 +22,7 @@
     "oxygen/1"
     ]
   "liquidOutputDirections": [
-    "hydrogen",
-    "oxygen"
+    "0",
+    "1"
   ]
 }
