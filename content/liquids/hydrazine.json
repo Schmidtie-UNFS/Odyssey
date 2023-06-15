@@ -1,0 +1,10 @@
+{
+  "temperature": 10,
+  "viscosity": 1,
+  "lightColor": "eab678",
+  "gas": true,
+  "explosiveness": 0.8,
+  "coolant": false,
+  "color": "eab678",
+  "research": "tessaria"
+}
