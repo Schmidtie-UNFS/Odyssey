@@ -3,9 +3,9 @@
 	"lowPriority": true,
 	"color": "515151",
 	"research": {
-		"parent": "tessaria"
+		"parent": "crusher"
 		"requirements": [
-			"crusher"
+			"graphite 1000"
 		]
 	}
 }
