@@ -17,6 +17,6 @@
       "lead/200"
   ],
   "category": "crafting",
-  "research": "lithium-press",
+  "research": "crusher",
   "outputLiquid": "molten-glass/10"
 }
