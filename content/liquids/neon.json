@@ -1,0 +1,9 @@
+{
+  "temperature": 10,
+  "viscosity": 1,
+  "lightColor": "84f491",
+  "gas": true,
+  "coolant": false,
+  "color": "84f491",
+  "research": "tessaria"
+}
