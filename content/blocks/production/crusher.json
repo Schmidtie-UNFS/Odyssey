@@ -5,7 +5,11 @@
   "itemCapacity": 20,
   "craftTime": 6.0,
   "updateEffect": "none",
-  "consumes": "graphite/2",
+  "consumes": {
+    "items": [
+      "graphite/2"
+    ]
+  },
   "requirements": [
       "copper/100",
       "lead/200"
