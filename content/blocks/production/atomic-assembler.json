@@ -1,0 +1,23 @@
+{
+  "type": "GenericCrafter",
+  "size": 2,
+  "hasItems": true,
+  "hasPower": true,
+  "craftTime": 3,
+  "updateEffect": "none",
+  "consumes": {
+    "power": 3,
+    "items": [
+      "carbon/6"
+    ]
+  },
+  "requirements": [
+      "copper/100",
+      "lead/200"
+  ],
+  "category": "production",
+  "research": "crusher",
+  "outputItems": [
+    "graphene/1"
+  ]
+}
