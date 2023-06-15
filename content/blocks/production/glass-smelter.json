@@ -1,0 +1,22 @@
+{
+  "type": "GenericCrafter",
+  "size": 2,
+  "hasPower": true,
+  "hasItems": true,
+  "itemCapacity": 20,
+  "craftTime": 160,
+  "updateEffect": "none",
+  "consumes": {
+    "power": 0.5,
+    "items": [
+      "metaglass/2"
+    ]
+  },
+  "requirements": [
+      "copper/100",
+      "lead/200"
+  ],
+  "category": "crafting",
+  "research": "lithium-press",
+  "outputLiquid": "molten-glass/10"
+}
