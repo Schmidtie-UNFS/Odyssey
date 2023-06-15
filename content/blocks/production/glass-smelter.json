@@ -4,7 +4,7 @@
   "hasPower": true,
   "hasItems": true,
   "itemCapacity": 20,
-  "craftTime": 160,
+  "craftTime": 300,
   "updateEffect": "none",
   "consumes": {
     "power": 0.5,
@@ -18,5 +18,5 @@
   ],
   "category": "crafting",
   "research": "crusher",
-  "outputLiquid": "molten-glass/10"
+  "outputLiquid": "molten-glass/1"
 }
