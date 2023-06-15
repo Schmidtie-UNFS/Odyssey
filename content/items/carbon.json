@@ -5,7 +5,7 @@
 	"research": {
 		"parent": "tessaria"
 		"requirements": [
-			"copper/300"
+			"crusher"
 		]
 	}
 }
