@@ -1,0 +1,24 @@
+{
+  "type": "GenericCrafter",
+  "size": 3,
+  "liquidCapacity": 100,
+  "hasPower": true,
+  "craftTime": 1,
+  "updateEffect": "none",
+  "consumes": {
+    "power": 3,
+    "liquids": [
+      "water/1"
+    ]
+  },
+  "requirements": [
+      "copper/100",
+      "lead/200"
+  ],
+  "category": "crafting",
+  "research": "tessaria",
+  "outputLiquids": [
+    "hydrogen/2",
+    "oxygen/1
+    ]
+}
