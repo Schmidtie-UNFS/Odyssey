@@ -1,0 +1,19 @@
+{
+  "type": "GenericCrafter",
+  "size": 1,
+  "hasItems": true,
+  "itemCapacity": 20,
+  "craftTime": 6.0,
+  "updateEffect": "none",
+  "consumes": "graphite/2",
+  "requirements": [
+      "copper/100",
+      "lead/200"
+  ],
+  "category": "crafting",
+  "research": "tessaria",
+  "outputItems": [
+    "carbon/1",
+    "silicon/1"
+    ]
+}
