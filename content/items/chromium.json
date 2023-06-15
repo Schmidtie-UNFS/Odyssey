@@ -4,9 +4,10 @@
 	"color": "dcdde3",
 	"charge": 0.1,
 	"research": {
-		"parent": "tessaria"
+		"parent": "carbon",
 		"requirements": [
-			"copper/300"
+			"carbon/300",
+			"graphene/300"
 		]
 	}
 }
