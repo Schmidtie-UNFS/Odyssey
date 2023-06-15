@@ -3,7 +3,7 @@
   "size": 2,
   "hasItems": true,
   "hasPower": true,
-  "craftTime": 3,
+  "craftTime": 60,
   "updateEffect": "none",
   "consumes": {
     "power": 3,
