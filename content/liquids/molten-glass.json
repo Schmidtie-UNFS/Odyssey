@@ -4,10 +4,6 @@
   "lightColor": "ffe18f",
   "effect": "melting",
   "color": "ffe18f",
-  "requirements": {
-    "research": "tessaria",
-      "liquids": [
-        "molten-glass/2"
-      ]
-  }
+  "parent": "tessaria",
+  "research": "glass-smelter"
 }
