@@ -1,0 +1,12 @@
+{
+	"cost": 1,
+	"lowPriority": true,
+	"color": "f3e979",
+	"charge": 0.1,
+	"research": {
+		"parent": "tessaria"
+		"requirements": [
+			"copper/300"
+		]
+	}
+}
