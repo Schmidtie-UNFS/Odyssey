@@ -15,7 +15,7 @@
       "copper/100",
       "lead/200"
   ],
-  "category": "crafting",
+  "category": "production",
   "research": "tessaria",
   "outputLiquids": [
     "hydrogen/2",
