@@ -3,9 +3,9 @@
   "size": 4,
   "researchCostMultiplier": 0.4,
   "buildCostMultiplier": 0.5,
-  "drawer": {
+  "drawers": {
     "type": "DrawMulti",
-    "drawers": [
+    "drawer": [
       {
         "type": "DrawDefault"
       },
@@ -18,7 +18,7 @@
   "health": 400,
   "itemCapacity": 40000,
   "research": "q-node-t3",
-  "catgory": "effect",
+  "category": "effect",
   "requirements": [
     "thorium/4000",
     "plastanium/3000",
