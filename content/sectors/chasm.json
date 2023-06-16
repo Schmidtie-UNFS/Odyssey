@@ -1,0 +1,9 @@
+{
+	"localizedName": "Chasm",
+	"description": "The first landing zone of Veritaxia. Barren from mining, but the ores here are still exposed."
+	"sector": 0,
+	"planet": "veritaxia",
+	"difficulty": 4,
+	"captureWave": 30,
+	"alwaysUnlocked": true
+}
