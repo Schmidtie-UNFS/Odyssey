@@ -1,0 +1,9 @@
+{
+	"localizedName": "Hillside",
+	"description": "The only exit from the crater. What was most likely a lush green hillside is now a barren landscape of scorched soil soaked with production refuse."
+	"sector": 15,
+	"planet": "veritaxia",
+	"difficulty": 5,
+	"captureWave": 35,
+	"research": "chasm"
+}
