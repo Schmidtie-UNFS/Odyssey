@@ -5,7 +5,12 @@
 	"planet": "veritaxia",
 	"difficulty": 5,
 	"captureWave": 35,
-	"parent": "chasm",
-	"allowLaunchLoadout": true
+	"allowLaunchLoadout": true,
+	"research": {
+		"objectives": [
+		"type": "SectorComplete",
+		"preset": "odyssey-chasm"
+	]
+	}
 	
 }
