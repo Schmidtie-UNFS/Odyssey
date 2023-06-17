@@ -8,8 +8,8 @@
 	"allowLaunchLoadout": true,
 	"requirements": {
 		"objectives": [
-			"type": "SectorComplete",
-			"preset": "odyssey-chasm"
+			"type/SectorComplete",
+			"preset/odyssey-chasm"
 		]
 	}
 }
