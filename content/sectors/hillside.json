@@ -11,5 +11,7 @@
 			"type": "sectorComplete",
 			"preset": "chasm"
 		}]
-	}
+	},
+	"allowLaunchLoadout": true,
+	
 }
