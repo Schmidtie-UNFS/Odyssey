@@ -5,12 +5,7 @@
 	"planet": "veritaxia",
 	"difficulty": 5,
 	"captureWave": 35,
-	"research": {
-		"objectives": [{
-			"type": "SectorComplete",
-			"preset": "chasm"
-		}]
-	},
+	"parent": "chasm",
 	"allowLaunchLoadout": true
 	
 }
