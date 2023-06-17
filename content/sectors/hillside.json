@@ -12,6 +12,6 @@
 			"preset": "chasm"
 		}]
 	},
-	"allowLaunchLoadout": true,
+	"allowLaunchLoadout": true
 	
 }
