@@ -5,7 +5,5 @@
 	"planet": "veritaxia",
 	"difficulty": 5,
 	"captureWave": 35,
-	"research":{
-		"parent": "chasm"
-	}
+	"parent": "chasm"
 }
