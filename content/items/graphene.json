@@ -2,9 +2,8 @@
 	"cost": 1,
 	"lowPriority": true,
 	"color": "565666",
-	"charge": 0.1,
 	"research": {
-		"parent": "tessaria"
+		"parent": "carbon"
 		"requirements": [
 			"copper/300"
 		]
