@@ -58,7 +58,7 @@
   ],
   "envRequired": 0,
   "research": "tessaria",
-  "outputLiquid": "strange-waste",
+  "outputLiquid": "strange-waste/50",
   "outputItems": [
     "spatial-fabric/1",
     "tachyonic-crystal/1"
