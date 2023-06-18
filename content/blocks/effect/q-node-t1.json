@@ -4,7 +4,7 @@
   "researchCostMultiplier": 0.5,
   "health": 100,
   "itemCapacity": 10000,
-  "research": "veritax-base-lion",
+  "research": "carbon-conveyor",
   "category": "effect",
   "requirements": [
     "thorium/1000",
