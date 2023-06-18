@@ -1,0 +1,16 @@
+{
+  "type": "StorageBlock",
+  "size": 3,
+  "researchCostMultiplier": 0.5,
+  "health": 300,
+  "hasLiquids": true,
+  "liquidCapacity": 30000,
+  "research": "carbon-conveyor",
+  "category": "effect",
+  "requirements": [
+    "thorium/1000",
+    "plastanium/300",
+    "qubidium/500",
+    "metaglass/200"
+  ]
+  }
