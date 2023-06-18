@@ -1,0 +1,56 @@
+{
+  "type": "GenericCrafter",
+  "category": "crafting",
+  "researchCostMultiplier": 0.5,
+  "destructible": true,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawDefault"
+      },
+      {
+        "type": "DrawGlowRegion",
+        "suffix": "-glow",
+        "glowScale": 10,
+        "color": "ffffa3"
+      }
+    ]
+  },
+  "size": 7,
+  "hasPower": true,
+  "hasItems": true,
+  "canOverdrive": false,
+  "itemCapacity": 500,
+  "craftTime": 500,
+  "consumes": {
+    "power": 100,
+    "items": {
+      "items": [
+        "chromium/1000",
+        "carbon/1000",
+        "thorium/1000",
+        "quantanium/1000",
+        "graphene/1000",
+        "surge-alloy/1000",
+        "blast-compound/1000"
+      ]
+    }
+  },
+  "requirements": [
+    "copper/3000",
+    "lead/5000",
+    "titanium/4000",
+    "silicon/5000",
+    "thorium/2000",
+    "graphite/3000",
+    "surge-alloy/1000",
+    "graphene/2000"
+  ],
+  "envRequired": 0,
+  "research": "tessaria",
+  "outputItems": [
+    "spatial-fabric/1",
+    "tachyonic-crystal/1"
+  ]
+}
