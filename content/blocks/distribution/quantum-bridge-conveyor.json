@@ -8,10 +8,10 @@
   "drawer": {
     "type": "DrawMulti",
     "drawers": [
-      "type": "DrawGlowRegion",
-      "suffix": "-glow",
-      "glowScale": 10,
-      "color": "b2f8ba"
+      "type/DrawGlowRegion",
+      "suffix/-glow",
+      "glowScale/10",
+      "color/b2f8ba"
     ]
   },
   "timerTransport": 1,
