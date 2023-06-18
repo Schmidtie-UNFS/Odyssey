@@ -2,6 +2,7 @@
   "type": "Conveyor",
   "health": 200,
   "speed": 0.1,
+  "displayedSpeed": 0.1,
   "itemCapacity": 5,
   "requirements": [
     "carbon/1",
