@@ -21,7 +21,7 @@
   "hasPower": true,
   "hasItems": true,
   "canOverdrive": false,
-  "itemCapacity": 500,
+  "itemCapacity": 1000,
   "craftTime": 500,
   "consumes": {
     "power": 100,
