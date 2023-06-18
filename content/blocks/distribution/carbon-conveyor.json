@@ -4,9 +4,9 @@
   "speed": 0.1,
   "itemCapacity": 5,
   "requirements": [
-    "carbon/30",
-    "copper/10",
-    "titanium/2"
+    "carbon/1",
+    "copper/1",
+    "titanium/1"
   ],
   "research": "tessaria",
   "category": "distribution"
