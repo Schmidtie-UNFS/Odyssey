@@ -1,9 +1,10 @@
 {
   "category": "distribution",
+  "type": "ItemBridge",
   "timerTransport": 1,
   "range": 30,
   "size": 1,
-  "transportTime": 2.0",
+  "transportTime": 2.0,
   "research": "carbon-conveyor",
   "requirements": [
     "quantanium/1",
