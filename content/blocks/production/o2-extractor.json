@@ -4,6 +4,30 @@
   "liquidCapacity": 100,
   "hasPower": true,
   "craftTime": 1,
+  "drawer": {
+    "type": "DrawMulti",
+    "drawers": [
+      {
+        "type": "DrawRegion",
+        "suffix": "-bottom"
+      },
+      {
+        "type": "DrawParticles",
+        "color": "BF92F9FF",
+        "alpha": 0.4,
+        "blending": "additive",
+        "particleSize": 4,
+        "particleRad": 11,
+        "particles": 43,
+        "fadeMargin": 0.8,
+        "rotateScl": 4,
+        "particleLife": 40
+      },
+      {
+        "type": "DrawDefault"
+      }
+    ]
+  },
   "updateEffect": "none",
   "consumes": {
     "power": 3,
