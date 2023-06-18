@@ -13,7 +13,7 @@
       },
       {
         "type": "DrawParticles",
-        "color": "BF92F9FF",
+        "color": "f15454",
         "alpha": 0.4,
         "blending": "additive",
         "particleSize": 4,
