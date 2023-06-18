@@ -1,5 +1,5 @@
 {
-  "type": "StorageBlock",
+  "type": "LiquidRouter",
   "size": 3,
   "researchCostMultiplier": 0.5,
   "health": 300,
