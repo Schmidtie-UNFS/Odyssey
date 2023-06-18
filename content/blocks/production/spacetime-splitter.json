@@ -10,6 +10,15 @@
         "type": "DrawDefault"
       },
       {
+        "type": "DrawFlame",
+        "flameRadius": 7.2,
+        "flameRadiusIn": 4.0,
+        "flameRadiusScl": 6.5,
+        "flameRadiusMag": 3.0,
+        "flameRadiusInMag": 1.0,
+        "flameColor": "ffffa3"
+      },
+      {
         "type": "DrawGlowRegion",
         "suffix": "-glow",
         "glowScale": 10,
