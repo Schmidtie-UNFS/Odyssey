@@ -1,0 +1,29 @@
+{
+	"type": "CoreBlock",
+	"health": 5000,
+	"size": 5,
+	"itemCapacity":20000,
+	"unitCapModifier": 40,
+	"researchCostMultiplier": 0.25,
+	"unitType": "tessaria-quarker",
+	"requirements":[
+	{
+		"item": "copper",
+		"amount": "9000"
+	},
+	{
+		"item": "lead",
+		"amount": "9000"
+	},
+	{
+		"item": "silicon",
+		"amount": "9000"
+	},
+	{
+		"item": "lithium",
+		"amount": "9000"
+	}
+	],
+	"category": "effect",
+	"research": "veritax"
+}
