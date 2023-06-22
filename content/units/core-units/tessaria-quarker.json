@@ -31,7 +31,6 @@
     }
   ],
   "immunities": [
-    "neutron-overcharge",
     "overclock",
     "freezing"
   ],
