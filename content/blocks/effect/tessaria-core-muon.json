@@ -1,0 +1,29 @@
+{
+	"type": "CoreBlock",
+	"health": 5000,
+	"size": 9,
+	"itemCapacity":60000,
+	"unitCapModifier": 80,
+	"researchCostMultiplier": 0.35,
+	"unitType": "tessaria-quarker",
+	"requirements":[
+	{
+		"item": "copper",
+		"amount": "10000"
+	},
+	{
+		"item": "lead",
+		"amount": "10000"
+	},
+	{
+		"item": "silicon",
+		"amount": "10000"
+	},
+	{
+		"item": "lithium",
+		"amount": "10000"
+	}
+	],
+	"category": "effect",
+	"research": "tessaria-core-gluon"
+}
