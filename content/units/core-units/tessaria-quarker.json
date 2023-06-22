@@ -1,0 +1,50 @@
+{
+  "type": "hover",
+  "speed": 3.8,
+  "hitSize": 14,
+  "health": 11600,
+  "mineSpeed": 9,
+  "buildSpeed": 7.5,
+  "mineTier": 6,
+  "itemCapacity": 100,
+  "armor": 50,
+  "faceTarget": true,
+  "rotateSpeed": 3,
+  "engineSize": 4,
+  "engineOffset": 8,
+  "hovering": true,
+  "shadowElevation": 0.1,
+  "canBoost": true,
+  "useEngineElevation": false,
+  "trailColor": "66B1FFFF",
+  "trailLength": 6,
+  "engineColor": "66B1FFFF",
+  "parts": [
+    {
+      "type": "FlarePart",
+      "color2": "FFFFFF",
+      "color1": "A9D8FFFF",
+      "y": 0,
+      "followRotation": true,
+      "stroke": 3,
+      "radius": 12
+    }
+  ],
+  "immunities": [
+    "neutron-overcharge",
+    "overclock",
+    "freezing"
+  ],
+  "abilities": [
+    {
+      "type": "mindustry.entities.abilities.StatusFieldAbility",
+      "effect": "overclock",
+      "parentizeEffects": true,
+      "effectY": 18,
+      "activeEffect": "none",
+      "range": 100,
+      "reload": 5,
+      "duration": 5
+    }
+  ]
+}
